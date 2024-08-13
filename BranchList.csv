@@ -1,0 +1,314 @@
+Number,Port Code,City,Airport Name,Country,Time Zone
+03,SEA,Seattle,Seattle-Tacoma International Airport,US,PST
+04,ORD,Chicago,OHare International Airport,US,CST
+05,SFO,San Francisco,San Francisco International Airport,US,PST
+06,JFK,New York,John F. Kennedy International Airport,US,EST
+07,LAX,Los Angeles,Los Angeles International Airport,US,PST
+08,MSP,Minneapolis,Minneapolis-Saint Paul International Airport,US,CST
+09,ATL,Atlanta,Hartsfield-Jackson Atlanta International Airport,US,EST
+10,YYZ,Toronto,Toronto Pearson International Airport,CA,EST
+101,CDG,Paris,Charles de Gaulle Airport,FR,CET
+102,LYS,Lyon,Lyon-Saint-Exupery Airport,FR,CET
+103,DAC,Dhaka,Shahjalal International Airport,BD,BDT
+104,CGP,Chittagong,Shah Amanat International Airport,BD,BDT
+109,ORF,Norfolk,Norfolk International Airport,US,EST
+11,PHX,Phoenix,Phoenix Sky Harbor International Airport,US,MST
+110,LRD,Laredo,Laredo International Airport,US,CST
+111,CPC,Buffalo,Buffalo Niagara International Airport,US,EST
+112,ELP,El Paso,El Paso International Airport,US,MST
+113,NOG,Nogales,Nogales International Airport,MX,MST
+114,SZX,Shenzhen,Shenzhen Baoan International Airport,CN,CST
+116,IND,Indianapolis,Indianapolis International Airport,US,EST
+117,DUB,Dublin,Dublin Airport,IE,GMT
+118,SNN,Shannon,Shannon Airport,IE,GMT
+119,ORK,Cork,Cork Airport,IE,GMT
+12,BOS,Boston,Logan International Airport,US,EST
+120,LHE,Lahore,Allama Iqbal International Airport,PK,PKT
+121,KHI,Karachi,Jinnah International Airport,PK,PKT
+122,KCH,Kuching,Kuching International Airport,MY,MYT
+123,NKG,Nanjing,Nanjing Lukou International Airport,CN,CST
+124,CAN,Guangzhou,Guangzhou Baiyun International Airport,CN,CST
+125,CPT,Cape Town,Cape Town International Airport,ZA,SAST
+126,JHB,Johannesburg,O.R. Tambo International Airport,ZA,SAST
+128,NLD,Nuevo Laredo,Quetzalcoatl International Airport,MX,CST
+129,BOM,Mumbai,Chhatrapati Shivaji Maharaj International Airport,IN,IST
+130,DXB,Dubai,Dubai International Airport,AE,GST
+131,KWI,Kuwait City,Kuwait International Airport,KW,AST
+133,MAA,Chennai,Chennai International Airport,IN,IST
+134,BLR,Bangalore,Kempegowda International Airport,IN,IST
+135,MNL,Manila,Ninoy Aquino International Airport,PH,PHT
+136,GDL,Guadalajara,Guadalajara International Airport,MX,CST
+137,BJS,Beijing,Beijing Capital International Airport,CN,CST
+138,SAN,San Diego,San Diego International Airport,US,PST
+14,BWI,Baltimore,Baltimore/Washington International Thurgood Marshall Airport,US,EST
+140,SSZ,Santos,Base Aerea de Santos,MX,CST
+141,ALY,Alexandria,Alexandria International Airport,EG,EET
+143,ATH,Athens,Athens International Airport,GR,EET
+144,NGB,Ningbo,Ningbo Lishe International Airport,CN,CST
+146,DNG,Dongguan,Dongguan Yongning Air Base,CN,CST
+147,SIA,Singapore,Singapore Changi Airport,SG,SGT
+15,MIA,Miami,Miami International Airport,US,EST
+150,TLV,Tel Aviv,Ben Gurion Airport,IL,IST
+151,TAO,Qingdao,Qingdao Liuting International Airport,CN,CST
+152,BEY,Beirut,Beirut-Rafic Hariri International Airport,LB,EET
+153,IZM,Izmir,Izmir Adnan Menderes Airport,TR,EET
+154,DHA,Dhahran,King Fahd International Airport,SA,AST
+155,BUE,Buenos Aires,Ministro Pistarini International Airport,AR,ART
+156,DLC,Dalian,Dalian Zhoushuizi International Airport,CN,CST
+157,XMN,Xiamen,Xiamen Gaoqi International Airport,CN,CST
+158,BFS,Belfast,Belfast International Airport,GB,GMT
+159,MFE,McAllen,McAllen Miller International Airport,US,CST
+16,DEN,Denver,Denver International Airport,US,MST
+160,CPH,Copenhagen,Copenhagen Airport,DK,CET
+161,CAS,Casablanca,Mohammed V International Airport,MA,WET
+162,FLR,Florence,Florence Airport,IT,CET
+163,ANK,Ankara,Esenboga International Airport,TR,EET
+164,QIN,Qingyuan,Quingxin Airport,CN,CST
+165,PRG,Prague,Vaclav Havel Airport Prague,CZ,CET
+166,WAW,Warsaw,Warsaw Chopin Airport,PL,CET
+168,BOG,Bogota,El Dorado International Airport,CO,COT
+17,CLE,Cleveland,Cleveland Hopkins International Airport,US,EST
+170,,,,,
+171,ADA,Adana,Adana Airport,TR,EET
+172,EMA,East Midlands,East Midlands Airport,GB,GMT
+173,YUL,Montreal,Montreal-Pierre Elliott Trudeau International Airport,CA,EST
+174,PIT,Pittsburgh,Pittsburgh International Airport,US,EST
+175,BUD,Budapest,Budapest Ferenc Liszt International Airport,HU,CET
+176,CJS,Ciudad Juarez,Abraham Gonzalez International Airport,MX,MST
+177,PNH,Phnom Penh,Phnom Penh International Airport,KH,ICT
+178,SGN,Ho Chi Minh City,Tan Son Nhat International Airport,VN,ICT
+179,HZN,Hengyang City,Hengyang Nanyue Airport,CN,CST
+18,PDX,Portland,Portland International Airport,US,PST
+180,MAO,Manaus,Eduardo Gomes International Airport,BR,AMT
+181,IAD,Washington,Washington Dulles International Airport,US,EST
+182,MCI,Kansas City,Kansas City International Airport,US,CST
+184,LUG,Lugano,Lugano Airport,CH,CET
+185,NUE,Nuremberg,Nuremberg Airport,DE,CET
+189,BNA,Nashville,Nashville International Airport,US,CST
+19,DTW,Detroit,Detroit Metropolitan Wayne County Airport,US,EST
+191,BRS,Bristol,Bristol Airport,GB,GMT
+192,AUS,Austin,Austin-Bergstrom International Airport,US,CST
+193,MCO,Orlando,Orlando International Airport,US,EST
+195,SJO,San Jose,Juan Santamaria International Airport,CR,CST
+196,MSY,New Orleans,Louis Armstrong New Orleans International Airport,US,CST
+197,MTY,Monterrey,General Mariano Escobedo International Airport,MX,CST
+199,POA,Porto Alegre,Salgado Filho International Airport,BR,BRT
+1A,CDG,Paris,Charles de Gaulle Airport,FR,CET
+1B,LYS,Lyon,Lyon-Saint-Exupery Airport,FR,CET
+1C,DAC,Dhaka,Shahjalal International Airport,BD,BDT
+1D,CGP,Chittagong,Shah Amanat International Airport,BD,BDT
+1I,ORF,Norfolk,Norfolk International Airport,US,EST
+1J,LRD,Laredo,Laredo International Airport,US,CST
+1K,CPC,Buffalo,Buffalo Niagara International Airport,US,EST
+1L,ELP,El Paso,El Paso International Airport,US,MST
+1M,NOG,Nogales,Nogales International Airport,MX,MST
+1N,SZX,Shenzhen,Shenzhen Baoan International Airport,CN,CST
+1P,IND,Indianapolis,Indianapolis International Airport,US,EST
+1Q,DUB,Dublin,Dublin Airport,IE,GMT
+1R,SNN,Shannon,Shannon Airport,IE,GMT
+1S,ORK,Cork,Cork Airport,IE,GMT
+1T,LHE,Lahore,Allama Iqbal International Airport,PK,PKT
+1U,KHI,Karachi,Jinnah International Airport,PK,PKT
+1V,KCH,Kuching,Kuching International Airport,MY,MYT
+1W,NKG,Nanjing,Nanjing Lukou International Airport,CN,CST
+1X,CAN,Guangzhou,Guangzhou Baiyun International Airport,CN,CST
+1Y,CPT,Cape Town,Cape Town International Airport,ZA,SAST
+1Z,JHB,Johannesburg,O.R. Tambo International Airport,ZA,SAST
+20,CVG,Cincinnati,Cincinnati/Northern Kentucky International Airport,US,EST
+200,SUB,Surabaya,Juanda International Airport,ID,WIT
+201,KHH,Kaohsiung,Kaohsiung International Airport,TW,CST
+202,BAH,Manama,Bahrain International Airport,BH,GST
+203,LIM,Lima,Jorge Chavez International Airport,PE,PET
+204,ABZ,Aberdeen,Aberdeen Airport,GB,GMT
+209,DOH,Doha,Hamad International Airport,QA,AST
+21,SDF,Louisville,Louisville Muhammad Ali International Airport,US,EST
+210,HGH,Hangzhou,Hangzhou Xiaoshan International Airport,CN,CST
+211,CKG,Chongqing,Chongqing Jiangbei International Airport,CN,CST
+212,AMM,Amman,Queen Alia International Airport,JO,EET
+213,GUA,Guatemala City,La Aurora International Airport,GT,CST
+214,AUH,Abu Dhabi,Abu Dhabi International Airport,AE,GST
+215,SKT,Sialkot,Sialkot International Airport,PK,PKT
+217,RDU,Raleigh-Durham,Raleigh-Durham International Airport,US,EST
+218,SZV,Suzhou,Sunan Shuofang International Airport,CN,CST
+22,IAH,Houston,George Bush Intercontinental Airport,US,CST
+220,DMM,Dammam,King Fahd International Airport,SA,AST
+221,MCT,Muscat,Muscat International Airport,OM,GST
+222,BUH,Bucharest,Henri Coanda International Airport/Aurel Vlaicu International Airport,RO,EET
+223,MKE,Milwaukee,General Mitchell International Airport,US,CST
+224,HAN,Hanoi,Noi Bai International Airport,VN,ICT
+225,WUH,Wuhan,Wuhan Tianhe International Airport,CN,CST
+226,OSL,Oslo,Oslo Gardermoen Airport,NO,CET
+227,ZIX,Zhigansk,Zhigansk Airport,RU,YAKT
+228,CWB,Curitiba,Afonso Pena International Airport,BR,BRT
+229,CTU,Chengdu,Chengdu Shuangliu International Airport,CN,CST
+23,DFW,Dallas-Fort Worth,Dallas/Fort Worth International Airport,US,CST
+231,MVD,Montevideo,Carrasco International Airport,UY,UYT
+232,TUL,Tulsa,Tulsa International Airport,US,CST
+233,MOW,Moscow,Sheremetyevo International Airport/Domodedovo International Airport,RU,MSK
+234,LUX,Luxembourg,Luxembourg Airport,LU,CET
+235,SDQ,Santo Domingo,La Isabela International Airport,DO,AST
+236,HAJ,Hannover,Hannover Airport,DE,CET
+237,PTY,Panama City,Tocumen International Airport,PA,EST
+238,HNL,Honolulu,Daniel K. Inouye International Airport,US,HST
+239,VNO,Vilnius,Vilnius Airport,LT,EET
+24,STL,St. Louis,St. Louis Lambert International Airport,US,CST
+248,NH1,Agent Branch,,,
+25,CLT,Charlotte,Charlotte Douglas International Airport,US,EST
+26,CMH,Columbus,John Glenn Columbus International Airport,US,EST
+27,DTT,Detroit,Detroit Metropolitan Wayne County Airport,US,EST
+270,QIV,,,,
+28,EWR,Newark,Newark Liberty International Airport,US,EST
+2B,NLD, Nuevo Laredo,Quetzalcoatl International Airport,MX,CST
+2C,BOM,Mumbai,Chhatrapati Shivaji Maharaj International Airport,IN,IST
+2D,DXB,Dubai,Dubai International Airport,AE,GST
+2E,KWI,Kuwait City,Kuwait International Airport,KW,AST
+2G,MAA,Chennai,Chennai International Airport,IN,IST
+2H,BLR,Bangalore,Kempegowda International Airport,IN,IST
+2I,MNL,Manila,Ninoy Aquino International Airport,PH,PHT
+2J,GDL,Guadalajara,Guadalajara International Airport,MX,CST
+2K,BJS,Beijing,Beijing Capital International Airport,CN,CST
+2L,SAN,San Diego,San Diego International Airport,US,PST
+2N,SSZ,Santos/Sao Paulo,Santos Air Base Airport,BR,BRT
+2O,ALY,Alexandria,El Nouzha Airport,EG,EET
+2Q,ATH,Athens,Athens International Airport,GR,EET
+2R,NGB,Ningbo,Ningbo Lishe International Airport,CN,CST
+2T,DNG,Huelva,Donana Airport,ES,CET
+2U,SIA,Singapore,Changi Airport,SG,SGT
+2X,TLV,Tel Aviv,Ben Gurion Airport,IL,IST
+2Y,TAO,Qingdao,Qingdao Liuting International Airport,CN,CST
+2Z,BEY,Beirut,Beirut-Rafic Hariri International Airport,LB,EET
+30,PHL,Philadelphia,Philadelphia International Airport,US,EST
+31,CHS,Charleston,Charleston International Airport,US,EST
+32,MEM,Memphis,Memphis International Airport,US,CST
+33,SAV,Savannah,Savannah/Hilton Head International Airport,US,EST
+34,SJU,San Juan,Luis Munoz Marin International Airport,PR,AST
+35,YVR,Vancouver,Vancouver International Airport,CA,PST
+36,SCL,Santiago,Arturo Merino Benitez International Airport,CL,CLT
+37,YYC,Calgary,Calgary International Airport,CA,MST
+38,TSN,Tianjin,Tianjin Binhai International Airport,CN,CST
+39,SHA,Shanghai,Shanghai Hongqiao International Airport,CN,CST
+3A,IZM,Izmir,Izmir Adnan Menderes Airport,TR,EET
+3B,DHA,Dhahran,King Fahd International Airport,SA,AST
+3C,BUE,Buenos Aires,Ministro Pistarini International Airport,AR,ART
+3D,DLC,Dalian,Dalian Zhoushuizi International Airport,CN,CST
+3E,XMN,Xiamen,Xiamen Gaoqi International Airport,CN,CST
+3F,BFS,Belfast,Belfast International Airport,GB,GMT
+3G,MFE,McAllen,McAllen International Airport,US,CST
+3H,CPH,Copenhagen,Copenhagen Airport,DK,CET
+3I,CAS,Casablanca,Mohammed V International Airport,MA,WET
+3J,FLR,Florence,Florence Airport,IT,CET
+3K,ANK,Ankara,Esenboga International Airport,TR,EET
+3L,QIN,Qingyuan,Quingxin Airport,CN,CST
+3M,PRG,Prague,Vaclav Havel Airport Prague,CZ,CET
+3N,WAW,Warsaw,Warsaw Chopin Airport,PL,CET
+3P,BOG,Bogota,El Dorado International Airport,CO,COT
+3R,NOX,,,,
+3S,ADA,Adana,Adana Sakirpasa Airport,TR,EET
+3T,EMA,East Midlands,East Midlands Airport,GB,GMT
+3U,YUL,Montreal,Montreal-Pierre Elliott Trudeau International Airport,CA,EST
+3V,PIT,Pittsburgh,Pittsburgh International Airport,US,EST
+3W,BUD,Budapest,Budapest Ferenc Liszt International Airport,HU,CET
+3X,CJS,Ciudad Juarez,Abraham Gonzalez International Airport,MX,MST
+3Y,PNH,Phnom Penh,Phnom Penh International Airport,KH,ICT
+3Z,SGN,Ho Chi Minh City,Tan Son Nhat International Airport,VN,ICT
+40,MIL,Milan,Milan Malpensa Airport,IT,CET
+41,VRN,Verona,Verona Villafranca Airport,IT,CET
+42,PUS,Busan,Gimhae International Airport,KR,KST
+43,SEL,Seoul,Incheon International Airport,KR,KST
+44,MEX,Mexico City,Mexico City International Airport,MX,CST
+46,MAD,Madrid,Adolfo Suarez Madrid-Barajas Airport,ES,CET
+48,AMS,Amsterdam,Amsterdam Airport Schiphol,NL,CET
+49,RTM,Rotterdam,Rotterdam The Hague Airport,NL,CET
+4A,HZN,Hengyang,Hengyang Nanyue Airport,CN,CST
+4B,MAO,Manaus,Eduardo Gomes International Airport,BR,AMT
+4C,IAD,Washington,Washington Dulles International Airport,US,EST
+4D,MCI,Kansas City,Kansas City International Airport,US,CST
+4F,LUG,Lugano,Lugano Airport,CH,CET
+4G,NUE,Nuremberg,Nuremberg Airport,DE,CET
+4K,BNA,Nashville,Nashville International Airport,US,CST
+4M,BRS,Bristol,Bristol Airport,GB,GMT
+4N,AUS,Austin,Austin-Bergstrom International Airport,US,CST
+4O,MCO,Orlando,Orlando International Airport,US,EST
+4Q,SJO,San Jose,Juan Santamaria International Airport,CR,CST
+4R,MSY,New Orleans,Louis Armstrong New Orleans International Airport,US,CST
+4S,MTY,Monterrey,General Mariano Escobedo International Airport,MX,CST
+4U,POA,Porto Alegre,Salgado Filho International Airport,BR,BRT
+4V,SUB,Surabaya,Juanda International Airport,ID,WIT
+4W,KHH,Kaohsiung,Kaohsiung International Airport,TW,CST
+4X,BAH,Manama,Bahrain International Airport,BH,GST
+4Y,LIM,Lima,Jorge Chavez International Airport,PE,PET
+4Z,ABZ,Aberdeen,Aberdeen Airport,GB,GMT
+51,BER,Berlin,Berlin Brandenburg Airport,DE,CET
+52,HAM,Hamburg,Hamburg Airport,DE,CET
+53,SLC,Salt Lake City,Salt Lake City International Airport,US,MST
+54,DUS,Dusseldorf,Dusseldorf Airport,DE,CET
+55,SAO,Sao Paulo,Sao Paulo/Guarulhos-Governador Andre Franco Montoro International Airport,BR,BRT
+56,FRA, Frankfurt,Frankfurt Airport,DE,CET
+57,STR,Stuttgart,Stuttgart Airport,DE,CET
+58,MUC,Munich,Munich Airport,DE,CET
+59,RIO,Rio de Janeiro,Rio de Janeiro/Galeao-Antonio Carlos Jobim International Airport,BR,BRT
+5E,DOH,Doha,Hamad International Airport,QA,AST
+5F,HGH,Hangzhou,Hangzhou Xiaoshan International Airport,CN,CST
+5G,CKG,Chongqing,Chongqing Jiangbei International Airport,CN,CST
+5H,AMM,Amman,Queen Alia International Airport,JO,EET
+5I,GUA,Guatemala City,La Aurora International Airport,GT,CST
+5J,AUH,Abu Dhabi,Abu Dhabi International Airport,AE,GST
+5K,SKT,Sialkot,Sialkot International Airport,PK,PKT
+5M,RDU,Raleigh-Durham,Raleigh-Durham International Airport,US,EST
+5N,SZV,Suzhou,Sunan Shuofang International Airport,CN,CST
+5P,DMM,Dammam,King Fahd International Airport,SA,AST
+5Q,MCT,Muscat,Muscat International Airport,OM,GST
+5R,BUH,Bucharest,Henri Coanda International Airport/Aurel Vlaicu International Airport,RO,EET
+5S,MKE,Milwaukee,General Mitchell International Airport,US,CST
+5T,HAN,Hanoi,Noi Bai International Airport,VN,ICT
+5U,WUH,Wuhan,Wuhan Tianhe International Airport,CN,CST
+5V,OSL,Oslo,Oslo Gardermoen Airport,NO,CET
+5W,ZIX,Zhigansk,Zhigansk Airport,RU,YAKT
+5X,CWB,Curitiba,Afonso Pena International Airport,BR,BRT
+5Y,CTU,Chengdu,Chengdu Shuangliu International Airport,CN,CST
+60,BRU,Brussels,Brussels Airport,BE,CET
+61,ANR,Antwerp,Antwerp International Airport,BE,CET
+62,DEL,Delhi,Indira Gandhi International Airport,IN,IST
+63,AMD,Ahmedabad,Sardar Vallabhbhai Patel International Airport,IN,IST
+64,IST,Istanbul,Istanbul Airport,TR,TRT
+65,HYD,Hyderabad,Rajiv Gandhi International Airport,IN,IST
+66,JED,Jeddah,King Abdulaziz International Airport,SA,AST
+67,RUH,Riyadh,King Khalid International Airport,SA,AST
+68,LIS,Lisbon,Humberto Delgado Airport,PT,WET
+6A,MVD,Montevideo,Carrasco International Airport,UY,UYT
+6B,TUL,Tulsa,Tulsa International Airport,US,CST
+6C,MOW,Moscow,Sheremetyevo International Airport/Domodedovo International Airport,RU,MSK
+6D,LUX,Luxembourg,Luxembourg Airport,LU,CET
+6E,SDQ,Santo Domingo,La Isabela International Airport,DO,AST
+6F,HAJ,Hannover,Hannover Airport,DE,CET
+6G,PTY,Panama City,Tocumen International Airport,PA,EST
+6I,VNO,Vilnius,Vilnius Airport,LT,EET
+6R,NH1,Agent Branch,,,
+70,CAI,Cairo,Cairo International Airport,EG,EET
+71,SIN,Singapore,Singapore Changi Airport,SG,SGT
+72,PEN,Penang,Penang International Airport,MY,MYT
+73,KUL,Kuala Lumpur,Kuala Lumpur International Airport,MY,MYT
+74,GLA,Glasgow,Glasgow Airport,GB,GMT
+75,LHR,London,Heathrow Airport,GB,GMT
+76,MAN,Manchester,Manchester Airport,GB,GMT
+77,BHX,Birmingham,Birmingham Airport,GB,GMT
+78,JNB,Johannesburg,O.R. Tambo International Airport,ZA,SAST
+79,DUR,Durban,King Shaka International Airport,ZA,SAST
+7N,QIV,,,,
+81,TPE,Taipei,Taiwan Taoyuan International Airport,TW,CST
+82,VCP,Campinas,Viracopos International Airport,BR,BRT
+83,JKT,Jakarta,Soekarno-Hatta International Airport,ID,WIB
+84,BKK,Bangkok,Suvarnabhumi Airport,TH,ICT
+85,VIE,Vienna,Vienna International Airport,AT,CET
+87,STO,Stockholm,Stockholm Arlanda Airport,SE,CET
+88,GOT,Gothenburg,Gothenburg Landvetter Airport,SE,CET
+89,HEL,Helsinki,Helsinki-Vantaa Airport,FI,EET
+90,PER,Perth,Perth Airport,AU,AWST
+91,HKG,Hong Kong,Hong Kong International Airport,HK,HKT
+92,CPC,Dearborne,US Customs Central Processing Center,US,EST
+93,TYO,Tokyo,Narita International Airport,JP,JST
+94,OSA,Osaka,Kansai International Airport,JP,JST
+95,SYD,Sydney,Sydney Airport,AU,AEDT
+96,MEL,Melbourne,Melbourne Airport,AU,AEDT
+97,AKL,Auckland,Auckland Airport,NZ,NZDT
+98,BNE,Brisbane,Brisbane Airport,AU,AEST
